@@ -1,5 +1,7 @@
 import random
+import letterfrequencychart
 alphabet = "abcdefghijklmnopqrstuvwxyz"
+
 
 def make_mono_sub(message):
     ciphertext = ""
@@ -19,4 +21,8 @@ def make_mono_sub(message):
         else:
             ciphertext = ciphertext + le
     print (ciphertext)
+    print (letterfrequencychart.frequency_chart(ciphertext))
+
     return message + " \nAlphabet used: " + new_alphabet
+
+

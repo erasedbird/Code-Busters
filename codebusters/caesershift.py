@@ -1,4 +1,6 @@
 import random
+import getletternumber
+import letterfrequencychart
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 def make_shift(message):
@@ -10,10 +12,11 @@ def make_shift(message):
         new_alphabet = new_alphabet + alphabet[shift%26]
         shift += 1
     for le in message:
-        if le in alphabet:
-            messagenum = alphabet.find(le)
-            ciphertext = ciphertext + new_alphabet[messagenum]
-        else:
-            ciphertext = ciphertext + le
+        x = getletternumber.get_letter_value(le,alphabet)
+        try:
+            ciphertext = ciphertext + new_alphabet[x]
+        except TypeError:
+            ciphertext = ciphertext + x
     print (ciphertext)
+    print (letterfrequencychart.frequency_chart(ciphertext))
     return message + " \nAlphabet used: " + new_alphabet

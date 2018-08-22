@@ -1,4 +1,5 @@
 import random
+import getletternumber
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 def make_vingere(plaintext, keyword):
@@ -14,16 +15,13 @@ def make_vingere(plaintext, keyword):
 
     for letter in keyword:
         if letter in alphabet:
-            og_number = alphabet.find(letter)
-            key_numbers.append(og_number)
+            x = getletternumber.get_letter_value(letter, alphabet)
+            key_numbers.append(x)
         else:
             pass
     for le in plaintext:
-        if le in alphabet:
-            og_num = alphabet.find(le)
-            plain_numbers.append(og_num)
-        else:
-            plain_numbers.append(le)
+        x = getletternumber.get_letter_value(le, alphabet)
+        plain_numbers.append(x)
 
     # actually does the vingere thingy
 
