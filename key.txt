@@ -1,0 +1,30 @@
+
+ Affine 1."bwvy bfgg plyxfym uv dhysfydvm lym lnivv ah rvaagv awvfi mfeefdjgafvr ut liufailafhy?"
+ Affine 2."phra qvhqgv ivajiy rplgg elshir, ldxyhbgvmnv pvmfjp hyvr lym ivqlt nivlavi hyvr - bfaw fynilafajmv."
+ Affine 3.the only thing more dangerous than ignorance is arrogance.
+ Affine 4.bwvy qvhqgv awhjnwa awv vliaw blr egla, awvt bviv bihyn. bwvy qvhqgv awhjnwa awv vliaw blr rqwvifdlg awvt bviv bihyn. uja fe thj awfyx awla awfyxfyn awv vliaw fr rqwvifdlg fr ojra lr bihyn lr awfyxfyn awv vliaw fr egla, awvy thji sfvb fr bihynvi awly uhaw he awvp qja ahnvawvi.
+ Affine 5."fe afpv uv he lgg awfynr awv phra qivdfhjr, blrafyn afpv pjra uv awv nivlavra qihmfnlgfat."
+ Affine 6.awv fpqhialya awfyn fr yha ah rahq zjvrafhyfyn. djifhrfat wlr far hby ivlrhy ehi vkfrafyn.
+ Affine 7."fe thj bhjgm yha uv ehinhaavy lr rhhy lr thj liv mvlm, vfawvi bifav rhpvawfyn bhiaw ivlmfyn hi mh awfynr bhiaw bifafyn."
+ Affine 8."god helps those who help themselves."
+ Affine 9."lyt ehhg dly difafdfcv, dhymvpy lym dhpqglfy - lym phra ehhgr mh."
+ Affine 10."a good conscience is a continual christmas."
+ Affine 11.gfev fr gfxv ifmfyn l ufdtdgv. ah xvvq thji ulglydv thj pjra xvvq phsfyn.
+ Affine 12."bwvy uveifvymvm, ivpvpuvi fa; bwvy thj uveifvym, ehinva fa."
+ Affine 13.thj bfgg wlsv ah vkqvifpvya lym ait awfynr hja ehi thjirvge lym thj bfgg yha uv rjiv he bwla thj liv mhfyn. awla'r lgg ifnwa, thj liv evvgfyn thji blt fyah awv awfyn.
+ Affine 14.thj lgbltr evvg bwvy thj ghhx fa railfnwa fy awv vtv awla thj dhjgm wlsv qja phiv fyah fa, dhjgm wlsv gva thjirvge nh lym mjn wlimvi.
+ Affine 15."bwlavsvi fr uvnjy fy lynvi vymr fy rwlpv."
+ Affine 16.awviv fr rhpvawfyn ufnnvi awly elda: awv jymvigtfyn rqfifa, lgg fa ralymr ehi, awv phhm, awv slrayvrr, awv bfgmyvrr.
+ Affine 17.
+ Affine 18.every body continues in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it.
+ Affine 19.l dlgp lym phmvra gfev uifynr phiv wlqqfyvrr awly awv qjirjfa he rjddvrr dhpufyvm bfaw dhyralya ivragvrryvrr.
+ Affine 20.fe eivvmhp he rqvvdw fr alxvy lblt, awvy mjpu lym rfgvya bv plt uv gvm, gfxv rwvvq ah awv rgljnwavi.
+ Affine 21.l wlqqt ply fr ahh rlafrefvm bfaw awv qivrvya ah mbvgg ahh pjdw hy awv ejajiv.
+ Affine 22."he that would live in peace and at ease must not speak all he knows or all he sees."
+ Affine 23."bwvy thj'iv efyfrwvm dwlynfyn, thj'iv efyfrwvm."
+ Vingere 24."experience keeps a dear school, but fools will learn in no other."
+ Monoalphabetic Subsitution 25.nothing truly valuable arises from ambition or from a mere sense of duty; it stems rather from love and devotion toward men and toward objective things.
+Alphabet used: xzpgtukywsiovbanjecflrdhmq
+ Caeser Shift 26."content makes poor men rich; discontent makes rich men poor." 
+Alphabet used: tuvwxyzabcdefghijklmnopqrs
+ Baconian Cipher 27."he that raises a large family does, indeed, while he lives to observe them, stand a broader mark for sorrow; but then he stands a broader mark for pleasure too."
